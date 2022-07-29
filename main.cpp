@@ -13,7 +13,8 @@ using namespace std;
     long long int second = 1;
 
     long long int nthNum = 0;
-    long int counter = 0;
+    
+    int counter = 0;
     // fetch number term to find.
 
     for (int i= 0; i < num; i++){
